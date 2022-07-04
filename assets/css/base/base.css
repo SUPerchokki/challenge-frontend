@@ -2,6 +2,6 @@
 @import url(./_variaveis.css);
 
 body{
-    background-color: var(--azul);
+    background-color: var(--branco);
     font-family: var(--fonte-familia);
 }

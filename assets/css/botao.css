@@ -9,10 +9,18 @@
     margin: 0.5rem;
     padding: 0.5rem;
     text-align: center;
-    width: 50%;
+    width: 40%;
    
 }
 
 .botao:hover{
     background-color: #FF9D9E;
+}
+
+.inicial{
+    width: 70%;
+}
+
+.botoes{
+    text-align: center;
 }
