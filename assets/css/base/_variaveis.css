@@ -1,5 +1,6 @@
 :root{
     --azul: #3772FF;
+    --branco: #FFFFFF;
     --cinza: #737380;
     --cinza-claro: #BCBCBC;
     --cinza-claro-fundos: #F6F6F6;
@@ -8,4 +9,5 @@
     --verde: #36D6AD;
 
     --fonte-familia: "Poppins", sans-serif;
+    --fonte-peso-comum: 400;
 }
