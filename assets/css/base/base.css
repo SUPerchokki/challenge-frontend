@@ -1,0 +1,7 @@
+@import url(./_reset.css);
+@import url(./_variaveis.css);
+
+body{
+    background-color: var(--azul);
+    font-family: var(--fonte-familia);
+}
