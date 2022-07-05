@@ -11,6 +11,19 @@
     top: 30%;
 }
 
+.patas{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.invertido{
+    transform: scaleX(-1);
+    left: 0;
+    top: 60%;
+    right: none;
+}
+
 .ilustracao{
     margin-top: 10% ;
     z-index: -1;
