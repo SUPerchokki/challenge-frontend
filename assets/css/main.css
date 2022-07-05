@@ -5,3 +5,7 @@
     flex: 1 0 auto;
     min-height: calc(100vh + 100px);
 }
+
+.cadastro{
+    margin-bottom: 5rem;
+}
