@@ -24,3 +24,9 @@
 .botoes{
     text-align: center;
 }
+
+.link{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
