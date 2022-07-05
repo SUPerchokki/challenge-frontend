@@ -4,6 +4,7 @@
     bottom: 0;
     color: var(--branco);
     display: flex;
+    flex-shrink: 0;
     font-weight: var(--fonte-peso-comum);
     font-size: 16px;
     height: 100px;
