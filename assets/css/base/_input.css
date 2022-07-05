@@ -1,0 +1,15 @@
+.input{
+    width: 80%;
+    border: none;
+    background-color: var(--cinza-claro-fundos);
+    padding: 1.1rem 0;
+    border-radius: 6px;
+    box-shadow: 0 2px 2px #00000040;
+    text-align: center;
+    margin: 0.5rem;
+}
+
+.input::placeholder{
+    color: var(--cinza-claro);
+    font-size: 0.8rem;
+}
