@@ -1,0 +1,17 @@
+.forma1{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+
+.forma2{
+    position: absolute;
+    right: 0;
+    top: 30%;
+}
+
+.ilustracao{
+    margin-top: 10% ;
+    z-index: -1;
+}
