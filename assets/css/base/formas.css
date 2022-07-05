@@ -20,7 +20,7 @@
 .invertido{
     transform: scaleX(-1);
     left: 0;
-    top: 60%;
+    top: 55%;
     right: none;
 }
 
