@@ -30,3 +30,9 @@
     margin-bottom: -20px;
     z-index: -1;
 }
+
+.pet{
+    margin-left: 1.5rem;
+    margin-right: 0.7rem;
+    width: 40%;
+}

@@ -19,3 +19,37 @@
     padding: 0.5rem;
     margin-bottom: 1rem;
 }
+
+.nome{
+    color: var(--azul);
+    font-weight: 600;
+}
+
+.informacoes{
+    color: var(--cinza);
+    font-size: 0.88rem;
+    line-height: 1.2rem;
+    margin-bottom: 1.8rem;
+    margin-top: 0.8rem;
+}
+
+.endereco{
+    color: var(--cinza);
+    font-size: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.responsavel{
+    align-items: center;
+    color: var(--cinza);
+    display: flex;
+    font-size: 0.63rem;
+}
+
+.responsavel img{
+    margin-right: 0.5rem;
+}
+
+.responsavel:active{
+    color: var(--verde);
+}
