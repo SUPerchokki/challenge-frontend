@@ -3,12 +3,10 @@
 @import url(./_input.css);
 @import url(./_label.css);
 @import url(./_animais.css);
+@import url(./_lista.css);
 
 body{
     height: 100%;
     background-color: var(--branco);
     font-family: var(--fonte-familia);
-}
-ul{
-    width: 100%;
 }

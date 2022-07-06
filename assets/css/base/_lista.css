@@ -1,0 +1,6 @@
+.lista{
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+}

@@ -1,6 +1,7 @@
 .animal{
     background-color: var(--cinza-claro-fundos);
     display: flex;
+    flex-wrap: wrap;
     padding: 1rem 0;
     margin-top: 1rem;
     text-align: left;
