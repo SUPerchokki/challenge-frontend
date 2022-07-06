@@ -13,3 +13,8 @@
     color: var(--cinza-claro);
     font-size: 0.8rem;
 }
+
+.input:focus-visible{
+    outline-color: var(--azul);
+    color: var(--azul);
+}
