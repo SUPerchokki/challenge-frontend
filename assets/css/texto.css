@@ -50,6 +50,6 @@
     margin-right: 0.5rem;
 }
 
-.responsavel:active{
+.responsavel:active, .responsavel:hover{
     color: var(--verde);
 }
