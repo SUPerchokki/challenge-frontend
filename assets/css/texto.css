@@ -20,6 +20,11 @@
     margin-bottom: 1rem;
 }
 
+.adocao{
+    width: 70%;
+    line-height: 1.3rem;
+}
+
 .nome{
     color: var(--azul);
     font-weight: 600;
