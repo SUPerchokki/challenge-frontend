@@ -3,5 +3,9 @@
     display: flex;
     justify-content: space-around;
     padding-top: 3rem;
-    width: 50%;
+    width: 100%;
+}
+
+.usuario{
+    padding-left: 1.7rem;
 }
