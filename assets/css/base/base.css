@@ -4,6 +4,7 @@
 @import url(./_label.css);
 @import url(./_animais.css);
 @import url(./_lista.css);
+@import url(./_form.css);
 
 body{
     height: 100%;

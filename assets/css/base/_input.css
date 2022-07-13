@@ -18,3 +18,7 @@
     outline-color: var(--azul);
     color: var(--azul);
 }
+
+.secundario{
+    background-color: var(--branco);
+}
