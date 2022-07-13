@@ -21,4 +21,10 @@
 
 .secundario{
     background-color: var(--branco);
+    width: 100%;
+    margin: 1rem 0;
+}
+
+.mensagem{
+    padding-bottom: 7rem;
 }
