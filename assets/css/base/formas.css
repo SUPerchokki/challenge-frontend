@@ -38,3 +38,8 @@
     margin-right: 0.7rem;
     width: 40%;
 }
+
+.foto-perfil{
+    display: block;
+    margin: auto;
+}
