@@ -6,6 +6,10 @@
     min-height: calc(100vh + 100px);
 }
 
+.container--home{
+    min-height: 80vh;
+}
+
 .cadastro{
     margin-bottom: 7rem;
 }
