@@ -58,3 +58,7 @@
 .responsavel:active, .responsavel:hover{
     color: var(--verde);
 }
+
+.texto--mensagem{
+    width: 65%;
+}
