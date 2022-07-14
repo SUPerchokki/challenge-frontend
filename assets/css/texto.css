@@ -69,3 +69,8 @@
     font-weight: 600;
     text-align: center;
 }
+
+.texto--perfil{
+    margin-top: 5rem;
+    width: 70%;
+}
