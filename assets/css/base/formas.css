@@ -8,8 +8,8 @@
 
 .forma2{
     position: absolute;
-    right: 0;
-    top: 30%;
+    right: -5%;
+    top: 35%;
     height: 415px;
     z-index: -1;
 }
@@ -44,4 +44,16 @@
 .foto-perfil{
     display: block;
     margin: auto;
+}
+
+/* Responsivo */
+@media (min-width: 768px) {
+    .forma1{
+        width:55%
+    }
+    .forma2{
+        height: 664px;
+        top: 15%;
+        right: 0;
+    }
 }
