@@ -57,3 +57,10 @@
         right: 0;
     }
 }
+
+@media (min-width: 1440) {
+    .forma1{
+        width: 40%;
+    }
+    
+}
