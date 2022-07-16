@@ -15,15 +15,17 @@
     width: 50%;
 }
 
-.cabecalho--logo{
-    display: none;
-}
 
 .cabecalho--login{
-    justify-content: space-between;
-    left: 0;
     position: relative;
-    width: 30%;
+    margin-left: -10%;
+
+}
+
+@media (min-width: 360px) {
+    .cabecalho--logo{
+        display: none;
+    }
 }
 
 @media (min-width: 768px) {
