@@ -25,3 +25,11 @@
 .mensagens{
     margin-top: 6rem;
 }
+
+@media (min-width: 768px) {
+    .container--home{
+        width: 50%;
+        
+    }
+    
+}
