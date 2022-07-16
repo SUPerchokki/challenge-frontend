@@ -3,14 +3,21 @@
     display: flex;
     justify-content: space-around;
     padding-top: 3rem;
-    width: 60%;
-}
-
-.triplo{
     width: 100%;
-
 }
 
-.usuario{
-    margin-left: 1.7rem;
+.cabecalho--links{
+    align-items: flex-start;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    left: 5%;
+    width: 50%;
+}
+
+.cabecalho--login{
+    justify-content: space-between;
+    left: 0;
+    position: relative;
+    width: 30%;
 }

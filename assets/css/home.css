@@ -2,3 +2,7 @@
     background-color: var(--azul);
     color: var(--branco);
 }
+
+@media (min-width: 768px) {
+    
+}
