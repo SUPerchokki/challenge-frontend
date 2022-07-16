@@ -3,12 +3,14 @@
     left: 0;
     top: 0;
     z-index: -1;
+    width: 100%;
 }
 
 .forma2{
     position: absolute;
     right: 0;
     top: 30%;
+    height: 415px;
     z-index: -1;
 }
 
