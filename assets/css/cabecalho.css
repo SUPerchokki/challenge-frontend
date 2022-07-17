@@ -2,7 +2,6 @@
     align-items: center;
     display: flex;
     justify-content: space-around;
-    margin-top: 3rem;
     width: 100%;
 }
 
@@ -27,7 +26,10 @@
     width: 50%;
 }
 
-@media (max-width: 78px) {
+@media (max-width: 768px) {
+    .cabecalho{
+        margin-top: 3rem;
+    }
     .cabecalho--logo{
         display: none;
     }
