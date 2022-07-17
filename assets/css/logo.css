@@ -19,9 +19,9 @@
 
     }
 }
-@media (min-width: 1440) {
+@media (max-width: 2000px) {
     .logo{
-        
+
     }
     
 }
