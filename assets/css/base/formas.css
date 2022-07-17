@@ -3,14 +3,10 @@
     left: 0;
     top: 0;
     z-index: -1;
-    width: 100%;
 }
 
 .forma2{
     position: absolute;
-    right: -5%;
-    top: 35%;
-    height: 415px;
     z-index: -1;
 }
 
@@ -47,7 +43,19 @@
 }
 
 /* Responsivo */
-@media (min-width: 768px) {
+
+@media (max-width: 768px) {
+    .forma1{
+        width: 100%;
+    }
+    .forma2{
+        right: -5%;
+        top: 35%;
+        height: 415px;
+    }
+    
+}
+@media (max-width: 1440px) {
     .forma1{
         width:70%
     }
@@ -58,9 +66,13 @@
     }
 }
 
-@media (min-width: 1440) {
+@media (min-width: 1440px) {
     .forma1{
-        width: 45%;
+        width: 40%;
+    }
+    .forma2{
+        top: 15%;
+        right: 0px;
     }
     
 }

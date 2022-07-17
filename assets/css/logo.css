@@ -4,7 +4,24 @@
     padding-top: 10%;
 }
 
-.secundaria{
-    width: 50%;
-}
 
+@media (max-width: 768px) {
+    .logo{
+
+    }
+    .secundaria{
+        width: 50%;
+    }
+    
+}
+@media (max-width: 1440) {
+    .logo{
+
+    }
+}
+@media (min-width: 1440) {
+    .logo{
+        
+    }
+    
+}

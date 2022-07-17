@@ -22,9 +22,6 @@
     width: 60%;
 }
 
-.botoes{
-    text-align: center;
-}
 
 .link{
     display: flex;
@@ -36,3 +33,4 @@
     display: block;
     margin: auto;
 }
+

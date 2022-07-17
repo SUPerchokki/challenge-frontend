@@ -22,13 +22,18 @@
 
 }
 
-@media (min-width: 360px) and (max-width: 767px) {
+.cabecalho--logo{
+    flex-shrink: 0;
+    width: 50%;
+}
+
+@media (max-width: 78px) {
     .cabecalho--logo{
         display: none;
     }
 }
 
-@media (min-width: 768px) {
+@media (max-width: 1440px) {
     .cabecalho{
         margin-top: 4rem;
     }
@@ -42,9 +47,13 @@
     
 }
 
-@media (min-width: 1440) {
+@media (min-width: 1440px) {
+    .cabecalho{
+        margin-top: 5.5rem;
+    }
     .cabecalho--links{
-        width: 30%;
+        margin-left: 10%;
+        width: 15%;
     }
     
 }
