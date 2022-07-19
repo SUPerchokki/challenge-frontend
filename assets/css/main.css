@@ -26,6 +26,12 @@
     margin-top: 6rem;
 }
 
+@media screen and (min-width: 0) {
+    .container--home{
+        margin-top: 2rem;
+    }
+}
+
 @media (min-width: 768px) {
     .container--home{
         margin-top: 8rem;

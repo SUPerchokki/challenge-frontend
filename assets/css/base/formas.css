@@ -19,7 +19,6 @@
 .invertido{
     transform: scaleX(-1);
     left: 0;
-    top: 80%;
     right: none;
 }
 
@@ -52,6 +51,13 @@
         top: 25%;
         height: 415px;
         right: -7%;
+    }
+    .invertido{
+        top: 80%;
+    }
+
+    .patas{
+        width: 100px;
     }
     
 }
