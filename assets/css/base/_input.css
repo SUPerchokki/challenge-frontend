@@ -38,3 +38,10 @@
     text-align: left;
     width: 90%;
 }
+
+
+@media screen and (min-width: 1024px){
+    .input__password{
+        width: 50%;
+    }
+}
