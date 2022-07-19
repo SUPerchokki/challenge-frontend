@@ -43,3 +43,21 @@
     }
     
 }
+
+@media screen and (min-width: 1024px) {
+    .container--home{
+        margin-top: 0;
+        width: 50%;
+        justify-content: center;
+    }
+    .login{
+        margin-top: 0;
+    }
+    .cadastro{
+        margin-top: 0;
+    }
+    .animais{
+        margin-top: 10rem;
+    }
+    
+}
