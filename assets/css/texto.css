@@ -11,6 +11,9 @@
     width: 70%;
 }
 
+.texto--responsivo{
+    display: none;
+}
 .forgot{
     color: var(--coral);
     text-decoration: underline;
@@ -73,4 +76,13 @@
 .texto--perfil{
     margin-top: 5rem;
     width: 70%;
+}
+
+@media screen and (min-width: 768px) {
+    .texto--responsivo{
+        display: inline-block;
+    }
+    .inicial{
+        width: 90%;
+    }
 }

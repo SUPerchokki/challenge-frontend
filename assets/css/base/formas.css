@@ -44,18 +44,18 @@
 
 /* Responsivo */
 
-@media (max-width: 768px) {
+@media (min-width: 0px) {
     .forma1{
         width: 100%;
     }
     .forma2{
-        right: -5%;
-        top: 35%;
+        top: 25%;
         height: 415px;
+        right: -7%;
     }
     
 }
-@media (max-width: 1440px) {
+@media (min-width: 768px) {
     .forma1{
         width:70%
     }
@@ -64,9 +64,20 @@
         top: 15%;
         right: 0;
     }
+    .invertido{
+        transform: scaleX(1);
+        left: unset;
+        right: 0;
+        top: 25%;
+    }
+    .patas{
+        width: 150px;
+    }
+
+    
 }
 
-@media (max-width: 2000px) {
+@media (min-width: 1024px) {
     .forma1{
         width: 40%;
     }
@@ -74,5 +85,15 @@
         top: 15%;
         right: 0px;
     }
+    .invertido{
+        transform: scaleX(1);
+        left: unset;
+        right: 0;
+        top: 25%;
+    }
+    .patas{
+        width: 200px;
+    }
     
+
 }

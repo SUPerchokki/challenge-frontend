@@ -8,3 +8,16 @@
     width: 100%;
     
 }
+
+@media screen and (min-width: 768px) {
+    .animal{
+        width: calc(50% - 2rem);
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .animal{
+        width: 30%;
+    }
+    
+}
